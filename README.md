@@ -21,3 +21,6 @@ Python, SQL, Pandas, SQLAlchemy, PostgreSQL, Matplotlib, Seaborn
 
 ### Dateset
 https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
+![Screenshot 2025-04-09 121403](https://github.com/user-attachments/assets/1062961c-3482-45af-9ee9-436087d924dc)
+![Screenshot 2025-04-09 121435](https://github.com/user-attachments/assets/c83fb6c6-7c37-4618-8e41-b83abf6d4ba1)
