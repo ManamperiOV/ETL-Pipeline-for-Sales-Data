@@ -16,7 +16,8 @@ In this project, I developed an ETL pipeline to process and analyze sales data. 
   - Data visualization with Python (Matplotlib, Seaborn).
   - Handling large datasets efficiently with Pandas.
 
-### Technologies: Python, SQL, Pandas, SQLAlchemy, PostgreSQL, Matplotlib, Seaborn
+### Technologies
+Python, SQL, Pandas, SQLAlchemy, PostgreSQL, Matplotlib, Seaborn
 
 ### Dateset
 https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
